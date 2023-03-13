@@ -1,0 +1,1 @@
+docker run --name pukiwiki -p 8080:80 -v C:\Users\wellk\project\docker-pukiwiki\pukiwiki:/ext -d pengo/pukiwiki
